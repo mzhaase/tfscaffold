@@ -1,3 +1,9 @@
+## 4.0.0 (28/04/2022)
+
+ * Change versioning to track AWS provider version
+ * Now only supports AWS provider ~> 4.0
+ * Change bootstrap S3 resources following the S3 refactor in AWS provider ~> 4.0
+
 ## 1.7.0 (29/10/2021)
 
  * Added custom action `shell`: a bash login shell between component init and cleanup
